@@ -1,17 +1,11 @@
 # Diseases Data Exploration
 
+This repository contains data exploring diseases and their trends.
+
 ## Dashboard
 
-![Dashboard 1](path/to/correct/Dashboard 1.png)
+![Dashboard](Dashboard%201.png)
 
-## COVID-19 Data Analysis
+## Getting Started
 
-### Storylines
-
-- **Introduction**: This analysis aims to explore various aspects of COVID-19, including infection rates, recovery rates, and the total impact on global health.
-- **Key Findings**:
-  - Insight into the infection trends over time.
-  - Examination of death rates in various demographics.
-  - Analysis of vaccination rates and their effectiveness.
-
-These storylines provide a comprehensive overview of the pandemic's current state and its implications for public health policy.
+To get started with the data, clone the repository and install the necessary dependencies.
