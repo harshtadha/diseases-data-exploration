@@ -1,10 +1,17 @@
-# Project Description
-This project aims to explore and analyze COVID-19 data to uncover insights and trends that can inform public health decisions.
+# Diseases Data Exploration
 
-# Dashboard Image
-![Dashboard](link_to_dashboard_image.png)
+## Dashboard
 
-# Key Storylines
-1. **Trend Analysis:** Examining the spread of COVID-19 over time across various regions.
-2. **Impact of Interventions:** Analyzing the effectiveness of different public health interventions on case rates.
-3. **Vaccination Rollout:** Tracking vaccination distribution and its correlation with case declines.
+![Dashboard 1](path/to/correct/Dashboard 1.png)
+
+## COVID-19 Data Analysis
+
+### Storylines
+
+- **Introduction**: This analysis aims to explore various aspects of COVID-19, including infection rates, recovery rates, and the total impact on global health.
+- **Key Findings**:
+  - Insight into the infection trends over time.
+  - Examination of death rates in various demographics.
+  - Analysis of vaccination rates and their effectiveness.
+
+These storylines provide a comprehensive overview of the pandemic's current state and its implications for public health policy.
